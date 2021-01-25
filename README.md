@@ -1,3 +1,3 @@
-# bike_rent_predictions
+# BIKE RENTALS FORECASTS
 BIKE RENTAL PREDICTIONS
 ///need to be updated later
